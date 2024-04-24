@@ -1,0 +1,25 @@
+.card{
+    border: none;
+    position: relative;
+}
+
+.navbar-toggler-icon{
+    filter: brightness(0) invert(1);
+}
+
+.bi{
+    background-color: #0d6efd;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    position: absolute;
+    top: -23px;
+    left: calc(50% - 30px);
+}
+
+.nav-item:hover{
+    color: white;
+}
